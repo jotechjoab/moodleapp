@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "ng.edu.newgateuniversityelearning",
+    "appname": "NUeL App",
     "versioncode": 42000,
     "versionname": "4.2.0",
     "cache_update_frequency_usually": 420000,
@@ -69,12 +69,12 @@
     "wsservice": "moodle_mobile_app",
     "demo_sites": {
         "student": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://www.elearning.newgateuniversityminna.edu.ng",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https://school.moodledemo.net",
+            "url": "https://www.elearning.newgateuniversityminna.edu.ng",
             "username": "teacher",
             "password": "moodle"
         }
@@ -86,13 +86,14 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "siteurl": "https://www.elearning.newgateuniversityminna.edu.ng",
+    "sitename": "Newgate University eLearning",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https://moodle.net/moodle-app-privacy/",
+    "privacypolicy": "https://newgateuniversityminna.edu.ng/moodle-app-privacy/",
     "notificoncolor": "#f98012",
     "enableanalytics": false,
     "enableonboarding": true,
@@ -100,7 +101,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "ng.edu.newgateuniversityelearning",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
